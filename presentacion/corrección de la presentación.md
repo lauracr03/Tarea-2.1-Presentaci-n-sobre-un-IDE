@@ -6,7 +6,7 @@ programa en HTML ya que no tiene esa opcion. puede comprobarlo en la captura que
 encuentra justo encima. Muestra los lenguajes que estan disponibles para ralizar
 el codigo.
 
-![alt] (pantallazos/1cap.png)
+![alt] (pantallazos/2cap.PNG)
 
 En este vemos la maquina virtual de codechef, en este tampoco tenemos la opción de 
 elegir HTML.
